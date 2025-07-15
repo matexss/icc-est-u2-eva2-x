@@ -7,6 +7,14 @@ Implementar la funcionalidad solicitada en la clase `LibroController` para orden
 
 ---
 
+
+## IMAGEN DE CONSOLA
+
+
+
+
+
+
 ## 🧩 Modelo
 
 Clase: `models.Book`
