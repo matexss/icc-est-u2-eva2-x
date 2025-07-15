@@ -12,6 +12,7 @@ Implementar la funcionalidad solicitada en la clase `LibroController` para orden
 
 ![alt text](image.png)
 ![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## IMAGEN DE CONSOLA
 
