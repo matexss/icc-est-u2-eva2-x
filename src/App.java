@@ -39,5 +39,6 @@ public class App {
         Set<Book> resultado = controller.procesarLibros(libros);
 
         resultado.forEach(System.out::println);
+        System.out.println();
     }
 }
